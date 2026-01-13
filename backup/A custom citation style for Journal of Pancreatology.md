@@ -1,7 +1,7 @@
 **STILL WIP!**
 This citation style is modified based on the AMA 11th ciation style, complying with the submission criteria of Journal of Pancreatology.
 [Contact me](lizhixu2004@outlook.com) if you have any questions.
-```HTML
+```XML
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded" initialize-with-hyphen="false" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
